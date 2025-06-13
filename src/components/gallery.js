@@ -4,7 +4,7 @@ import { useSwipeable } from "react-swipeable";
 
 const images = [
   "/img/product-1.jpg",
-  "/img/gallery.jpg",
+  "/img/Gallery.jpg",
   "/img/gallery4.jpg",
   "/img/gallery2.jpg",
   "/img/mathani2.jpg",
